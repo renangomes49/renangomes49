@@ -1,4 +1,4 @@
-#Informações
+# ** Informações **
 - 👋 Olá, eu sou Renan Gomes, estudante de Computação na Universidade Federal do Ceará - Campus Quixadá 
 - 🌱 Atualmente estou estudando a Linguagem Java e seus frameworks.
 - 📫 Email: renangomes.49@hotmail.com
